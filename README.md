@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/riteshg70143699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/riteshg70143699" height="30" width="40" /></a><br>
+<a href="https://twitter.com/https://twitter.com/b4n1y4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/b4n1y4" height="30" width="40" /></a><br>
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-gupta-5651201b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-gupta-5651201b0/" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/b4n1y4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/b4n1y4/" height="30" width="40" /></a><br>
 
-<a href="https://instagram.com/ritesh_gupta_0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ritesh_gupta_0406" height="30" width="40" /></a>
+<a href="https://instagram.com/b4n1y4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="b4n1y4" height="30" width="40" /></a>
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
