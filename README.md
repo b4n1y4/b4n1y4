@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b4n1y4" alt="b4n1y4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/b4n1y4" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/riteshg70143699?logo=twitter&style=for-the-badge" alt="https://twitter.com/riteshg70143699" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/b4n1y4" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/riteshg70143699?logo=twitter&style=for-the-badge" alt="https://twitter.com/b4n1y4" /></a> </p>
 
 - 💬 Ask me about **Competitive Coding, C, Python and Front-End**
 
