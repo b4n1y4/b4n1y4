@@ -1,3 +1,7 @@
+<style>
+  
+  </style>
+
 <h1 align="center">I'm Ritesh</h1>
 <h3 align="center">kul lagunga</h3>
 
