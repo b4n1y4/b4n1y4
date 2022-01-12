@@ -1,5 +1,4 @@
-<h1 align="center">I'm Ritesh</h1>
-<h3 align="center">kul lagunga</h3>
+<h1 align="center">Hello, I'm Ritesh</h1>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=b4n1y4&label=Profile%20views&color=0e75b6&style=flat" alt="b4n1y4" /> </p>-->
 
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/b4n1y4" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/riteshg70143699?logo=twitter&style=for-the-badge" alt="https://twitter.com/b4n1y4" /></a> </p>
 
-- 💬 Ask me about **Competitive Coding, C, Python and Front-End**
+- 💬 Ask me about **Front-end web dev, Python and weird stuff**
 
 - 📫 How to reach me **riteshgupta7645@gmail.com**
 
