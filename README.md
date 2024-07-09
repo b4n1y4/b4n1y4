@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/b4n1y4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/b4n1y4" height="30" width="40" /></a><br>
   
-<a href="https://linkedin.com/in/b4n1y4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/b4n1y4/" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/r1t35h/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/b4n1y4/" height="30" width="40" /></a><br>
 
 <a href="https://instagram.com/ban1ya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="b4n1y4" height="30" width="40" /></a>
 </p><br>
